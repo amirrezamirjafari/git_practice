@@ -1,1 +1,2 @@
 this directory generated for practice with claude.
+line 2
