@@ -1,3 +1,4 @@
 this directory generated for practice with claude.
 line 2
 line 3
+feature line
